@@ -24,4 +24,4 @@ $ make
 
 then do the command:
 
- $./queue
+ $ ./queue
